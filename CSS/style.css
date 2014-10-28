@@ -1,0 +1,62 @@
+.cpi {color:red;}
+a {color:green;}
+
+.heading{
+	background: url(https://farm9.staticflickr.com/8088/8397198901_67255e1e08_b.jpg) no-repeat;
+	background-size: cover;
+	height: 500px;
+	text-align: center;
+}
+
+.navbar-default {
+	background-color: rgba(0, 0, 0, 0.4);
+	border: none;
+
+}
+
+.btn-default {
+	background-color: (255, 255, 255, 0.5);
+	color:black;
+	
+}
+
+.btn-default:hover {
+	background-color: (0, 0, 0, 0.5);
+	color: black;
+}
+
+h1 {
+	color: white;
+	padding-top: 140px;
+	font-family: 'Patrick Hand', Helvetica, Sans-serif;
+	font-size: 5pc;
+	
+}
+
+h2 {
+	color: black;
+	font-family: 'Patrick Hand', Helvetica, Sans-serif;
+	font-size: 2pc;
+	text-align: center;
+	
+}
+
+.fa-book{
+	font-size: 5pc;
+	text-align: center;
+}
+
+.fa-globe{
+	font-size: 5pc;
+	text-align: center;
+}
+
+.fa-users{
+	font-size: 5pc;
+	text-align: center;
+}
+
+.fa-male{
+	font-size: 1pc;
+	text-align: center;
+}
